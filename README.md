@@ -59,11 +59,16 @@ The dataset includes demographic, account, and service-related information for e
    cd Customer-Churn-Prediction
   ```
 2. Open the notebook:
-```bash
-  jupyter notebook Customer_Churn_Prediction.ipynb
+  ```bash
+jupyter notebook Customer_Churn_Prediction.ipynb
 ```
 ## 🚀 Future Improvements
 - Hyperparameter tuning and cross-validation
 - Integration with a web dashboard for live prediction
 - Deployment using Flask/Streamlit
+## 🙌 Credits
+Project by Md Shitab Salim <br>
+Supervised by: Coding Ninjas
+## 📬 Contact
+For queries or collaboration, reach out at aatirsalim1910@gmail.com.
 
