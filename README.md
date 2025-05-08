@@ -68,8 +68,7 @@ The dataset includes demographic, account, and service-related information for e
 - Integration with a web dashboard for live prediction
 - Deployment using Flask/Streamlit
 ## 🙌 Credits
-Project by Md Shitab Salim <br>
-Supervised by: Coding Ninjas
+Project by Md Shitab Salim 
 ## 📬 Contact
 For queries or collaboration, reach out at aatirsalim1910@gmail.com.
 
