@@ -57,7 +57,7 @@ The dataset includes demographic, account, and service-related information for e
    ```bash
    git clone https://github.com/your-username/Customer-Churn-Prediction.git
    cd Customer-Churn-Prediction
-```
+  ```
 2. Open the notebook:
 ```bash
   jupyter notebook Customer_Churn_Prediction.ipynb
