@@ -53,12 +53,16 @@ The dataset includes demographic, account, and service-related information for e
 
 ## ✅ How to Run the Project
 
-# 1. Clone the repository
-git clone https://github.com/your-username/Customer-Churn-Prediction.git
-cd Customer-Churn-Prediction
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/Customer-Churn-Prediction.git
+   cd Customer-Churn-Prediction
+   ```
 
-# 2. Open the Jupyter Notebook
-jupyter notebook Customer_Churn_Prediction.ipynb
+2. Open the notebook:
+   ```bash
+   jupyter notebook Customer_Churn_Prediction.ipynb
+   ```
 ## 🚀 Future Improvements
 - Hyperparameter tuning and cross-validation
 - Integration with a web dashboard for live prediction
